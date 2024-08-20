@@ -32,9 +32,9 @@
 
 <h1 align="left">📊 Stats:</h1>
 <div align="center">
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedzayan7920&theme=dark&hide_border=false&layout=compact" alt="ahmedzayan7920" /></p>
-<p align="right"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedzayan7920&theme=dark&hide_border=false"/></p> 
-<p align="center" width="200"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedzayan7920&theme=dark&hide_border=false&layout=compact" alt="ahmedzayan7920" height="200"/></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedzayan7920&theme=dark&hide_border=false&layout=compact" alt="ahmedzayan7920"  height="200"/></p>
+<p align="right" width="200"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedzayan7920&theme=dark&hide_border=false&layout=compact" alt="ahmedzayan7920" height="200"/></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedzayan7920&theme=dark&hide_border=false"/></p> 
 </div>
 <h1 align="left">✍️ Random Quote:</h1>
 <p align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="ahmedzayan7920"/></p>
