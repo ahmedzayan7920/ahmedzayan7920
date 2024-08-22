@@ -1,0 +1,40 @@
+1- Create Flutter App And Push to Github
+
+2- Create development branch
+
+3- FLAVORS (https://docs.flutter.dev/deployment/flavors)
+	1- setup 2 main(dev-prod)
+	2- edit app/build.gradle
+	3- edit label in Manifest  --> @string/app_name
+	4- create .vscode/launch.json
+
+4- FIREBASE (https://firebase.google.com/docs/flutter/setup?platform=ios)
+	1- create firebase project in firebase console
+	2- firebase login --- firebase login:(use-add) ****@***.**
+	3- dart pub global activate flutterfire_cli
+	4- flutterfire configure
+	5- flutter pub add firebase_core
+	6- enable App Distribution
+
+5- FASTLANE (https://docs.fastlane.tools/getting-started/android/setup/  -- https://firebase.google.com/docs/app-distribution/android/distribute-fastlane)
+	1- cd android
+	2- fastlane -v
+	3- fastlane init
+	4- fastlane add_plugin firebase_app_distribution
+	5- firebase login:ci ---> save token in github secrets
+	6- edit android FastFile
+	7- --> command to upload if you want <--  fastlane upload_apk
+
+6- GITHUB ACTIONS
+	1- create .github/workflows/upload-apk.yml
+
+
+
+
+
+
+
+
+
+
+
